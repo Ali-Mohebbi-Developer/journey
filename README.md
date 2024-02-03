@@ -4,7 +4,7 @@
 
 ![journey-1](https://github.com/Ali-Mohebbi-Developer/journey/assets/126477170/d3fca771-444b-4265-921d-6ddff57fd96b)
 
-![Snapp-view-1](https://github.com/Ali-Mohebbi-Developer/Snapp-Project/assets/126477170/9772d579-7c65-4428-85c5-1168ef452d1a)
+![journey-2](https://github.com/Ali-Mohebbi-Developer/journey/assets/126477170/b6a82941-2242-4299-bb3d-0ea8669a7fdf)
 
 - [Demo Project](https://ali-mohebbi-developer.github.io/journey/)
 
