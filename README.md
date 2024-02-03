@@ -6,7 +6,7 @@
 
 ![Snapp-view-1](https://github.com/Ali-Mohebbi-Developer/Snapp-Project/assets/126477170/9772d579-7c65-4428-85c5-1168ef452d1a)
 
-- [Demo Project](https://ali-mohebbi-developer.github.io/Snapp-Project/)
+- [Demo Project](https://ali-mohebbi-developer.github.io/journey/)
 
 - Developed by Ali Mohebbi
 
