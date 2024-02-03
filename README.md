@@ -10,9 +10,9 @@
 
 - Developed by Ali Mohebbi
 
-- Created - 2024-2-2
+- Created - 2024-2-3
 
-- Technologies Used - Html , css 
+- Technologies Used - Html , css , Sass
 
 - Role - Frontend
 
