@@ -2,7 +2,7 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![Snapp-view-main](https://github.com/Ali-Mohebbi-Developer/Snapp-Project/assets/126477170/b988ea0f-f608-4337-a46b-2f8f73efa5e5)
+![journey-1](https://github.com/Ali-Mohebbi-Developer/journey/assets/126477170/d3fca771-444b-4265-921d-6ddff57fd96b)
 
 ![Snapp-view-1](https://github.com/Ali-Mohebbi-Developer/Snapp-Project/assets/126477170/9772d579-7c65-4428-85c5-1168ef452d1a)
 
